@@ -8,10 +8,10 @@
             "name": "Leonardo Marquine",
             "email": "leonardomarquine@gmail.com"
         },
-  {
-        "name": "Claonilton",
-        "email": "claonilton@gmail.com"
-    }
+	{
+            "name": "Claonilton Jr",
+            "email": "claonilton@vscorp.com.br"
+        }
     ],
     "require": {
         "illuminate/container": "^5.0|^6.0|^7.0|^8.0",
