@@ -1,5 +1,5 @@
 {
-    "name": "marquine/php-etl",
+    "name": "claonilton/php-etl",
     "description": "Extract, Transform and Load data using PHP.",
     "keywords": ["etl", "extract", "transform", "load", "extraction", "transformation", "seed", "data", "laravel"],
     "license": "MIT",
@@ -7,7 +7,11 @@
         {
             "name": "Leonardo Marquine",
             "email": "leonardomarquine@gmail.com"
-        }
+        },
+  {
+        "name": "Claonilton",
+        "email": "claonilton@gmail.com"
+    }
     ],
     "require": {
         "illuminate/container": "^5.0|^6.0|^7.0|^8.0",
