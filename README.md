@@ -1,16 +1,16 @@
 # PHP ETL
 
-[![Build Status](https://travis-ci.org/leomarquine/php-etl.svg)](https://travis-ci.org/leomarquine/php-etl)
-[![Latest Stable Version](https://poser.pugx.org/marquine/php-etl/v/stable)](https://packagist.org/packages/marquine/php-etl)
-[![Latest Unstable Version](https://poser.pugx.org/marquine/php-etl/v/unstable)](https://packagist.org/packages/marquine/php-etl)
-[![License](https://poser.pugx.org/marquine/php-etl/license)](https://packagist.org/packages/marquine/php-etl)
+[![Build Status](https://travis-ci.org/claonilton/php-etl.svg)](https://travis-ci.org/claonilton/php-etl)
+[![Latest Stable Version](https://poser.pugx.org/claonilton/php-etl/v/stable)](https://packagist.org/packages/claonilton/php-etl)
+[![Latest Unstable Version](https://poser.pugx.org/claonilton/php-etl/v/unstable)](https://packagist.org/packages/claonilton/php-etl)
+[![License](https://poser.pugx.org/claonilton/php-etl/license)](https://packagist.org/packages/claonilton/php-etl)
 
-Extract, Transform and Load data using PHP.
+Extract, Transform, and Load data using PHP.
 
 ## Installation
 In your application's folder, run:
 ```
-composer require marquine/php-etl
+composer require claonilton/php-etl
 ```
 
 ## Documentation
@@ -32,3 +32,8 @@ $etl->extract('csv', '/path/to/users.csv')
 
 ## License
 PHP ETL is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+## Origin of the project
+
+This project is a fork and an improvement of the [marquine/php-etl](https://github.com/leomarquine/php-etl) project by [Leonardo Marquine](https://github.com/leomarquine/php-etl).
