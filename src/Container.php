@@ -49,7 +49,7 @@ class Container extends BaseContainer
                 $step = $this->make($step);
             }
 
-            if ($this->has("{$name}_{$type}")) {
+            if ($this->bound("{$name}_{$type}")) {
                 $step = $this->make("{$name}_{$type}");
             }
         }
